@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    outline: none;
+    list-style: none;
+}
+
+:root {
+  --color-grey: #ebebec;
+  --color-black: #272727;
+  --color-pink: #f06197;
+  --color-green: #36b59f;
+}
+
+body {
+  background: var(--color-grey);
+}

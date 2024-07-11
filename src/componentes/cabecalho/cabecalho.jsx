@@ -5,7 +5,7 @@ export const Cabecalho = (props) => {
         <div className={style.Cabecalho}>
             <h1>
                 Lista de 
-                <span>Tarefas</span>
+                <span> Tarefas</span>
             </h1>
         </div>
     );

@@ -1,10 +1,11 @@
-import { CampoDeTexto } from "../../componentes";
+import { Botao, CampoDeTexto } from "../../componentes";
 
 export const FormCriarTarefas = () => {
     return(
         <>
         <form action="">
-            <CampoDeTexto />    
+            <CampoDeTexto />  
+            <Botao />  
         </form>
         </>  
     );

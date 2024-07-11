@@ -12,8 +12,10 @@
   --color-black: #272727;
   --color-pink: #f06197;
   --color-green: #36b59f;
+  --color-white: #ffffff;
 }
 
 body {
   background: var(--color-grey);
+  color: var(--color-black);
 }

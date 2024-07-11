@@ -1,0 +1,16 @@
+.Rodape {
+    background-color: var(--color-black);
+    padding: .5rem 2rem;
+    color: var(--color-white);
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Rodape span {
+    color: var(--color-green);
+}
